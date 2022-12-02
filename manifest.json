@@ -1,0 +1,16 @@
+{
+    "name": "MADONNA",
+    "version": "1.0.0",
+    "description": "Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis",
+    "manifest_version": 3,	
+	"permissions": ["tabs","tabGroups"],
+    "author": "RGU-OU",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "MADONNA"
+    },
+	"content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'"
+  }
+
+}

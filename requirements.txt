@@ -1,0 +1,12 @@
+beautifulsoup4
+dnspython
+geoip2
+joblib
+numpy
+tldextract
+python-whois
+gensim
+flask_cors
+Flask
+requests
+tensorflow
