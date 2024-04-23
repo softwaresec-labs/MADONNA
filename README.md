@@ -1,7 +1,7 @@
 # MADONNA
 MADONNA: Browser-Based MAlicious Domain Detection through Optimized Neural Network with Feature Analysis
 
-The full paper was presented in the 38th IFIP TC 11 International Conference on Information Security and Privacy Protection (IFIPSec) - 2023 Conference. If you are using this plugin or model in your research work, please cite as: **Senanayake, J., Rajapaksha, S., Yanai, N., Komiya, C., Kalutarage, H. (2024). MADONNA: Browser-Based MAlicious Domain Detection Through Optimized Neural Network with Feature Analysis. In: Meyer, N., Grocholewska-Czuryło, A. (eds) ICT Systems Security and Privacy Protection. SEC 2023. IFIP Advances in Information and Communication Technology, vol 679. Springer, Cham. https://doi.org/10.1007/978-3-031-56326-3_20**
+The full paper was presented in the 38th IFIP TC 11 International Conference on Information Security and Privacy Protection (IFIPSec) - 2023 Conference. If you are using this plugin or model in your research work, please cite as: **_Senanayake, J., Rajapaksha, S., Yanai, N., Komiya, C., Kalutarage, H. (2024). MADONNA: Browser-Based MAlicious Domain Detection Through Optimized Neural Network with Feature Analysis. In: Meyer, N., Grocholewska-Czuryło, A. (eds) ICT Systems Security and Privacy Protection. SEC 2023. IFIP Advances in Information and Communication Technology, vol 679. Springer, Cham. https://doi.org/10.1007/978-3-031-56326-3_20_**
 
 ## Overview of MADONNA
 
